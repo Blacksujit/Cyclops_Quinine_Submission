@@ -11,6 +11,7 @@ Welcome to the Beginner track of our Cyclops quest! In this guide, we'll explore
 
 ## Folder Structure:
 
+```
 Quinine-submission/
 │
 ├── Dockerfile
@@ -18,6 +19,7 @@ Quinine-submission/
 ├── ml-model-service.yaml
 └── README.md
 
+```
 
 ## Why Cyclops for ML Deployments?
 
